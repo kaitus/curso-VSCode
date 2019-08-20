@@ -1,10 +1,10 @@
 # Tips
 ```
-command + P : Markdown Open Preview
-command + P : Markdown Open Preview to the side
+command + shift + P : Markdown Open Preview
+command + shift + P : Markdown Open Preview to the side
 
-Ctrl + P : Markdown Open Preview
-Ctrl + P : Markdown Open Preview to the side
+Ctrl + shift + P : Markdown Open Preview
+Ctrl + shift + P : Markdown Open Preview to the side
 ```
 
 # Dillinger

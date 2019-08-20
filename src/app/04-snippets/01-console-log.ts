@@ -1,5 +1,14 @@
 
 
+console.log('');
+
+
+export class test { 
+
+   constructor() {
+
+   }
+}
 
 
 
